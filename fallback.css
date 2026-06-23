@@ -1,0 +1,6 @@
+/* Fallback copy of the main viral_birthday CSS - minimal for initial view */
+/* You can replace with full CSS from ../style.css if needed */
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;font-family:Arial,Helvetica,sans-serif;background:#120217;color:#fff}
+.loading-box{background:#070607;padding:28px;border-radius:12px}
+.btn{padding:10px 14px;border-radius:8px;background:#ff9ac0;border:none;color:#111}
